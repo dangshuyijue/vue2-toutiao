@@ -4,7 +4,7 @@
 
     <!-- Tabbar 区域 -->
     <van-tabbar route>
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
+      <van-tabbar-item icon="home-o" to="/">首页的</van-tabbar-item>
       <van-tabbar-item icon="user-o" to="/user">我的</van-tabbar-item>
     </van-tabbar>
   </div>
